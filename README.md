@@ -35,8 +35,10 @@ Una sencilla aplicación **React + Vite** que permite gestionar una lista de tar
 ## 🚀 Instalación y ejecución
 
 1. Clona el repositorio:  
-       git clone <URL_DEL_PROYECTO>  
-       cd my-todo-app  
+       git clone <https://github.com/sebastian438/practica_todo_list.git>  
+       cd 
+practica_todo_list
+  
 
 2. Instala dependencias:  
        # Con Yarn  
